@@ -1,0 +1,2 @@
+This is second.txt
+And it is changed now
